@@ -1,0 +1,88 @@
+.conteudo {
+  font-family: "Secular One";
+  background-color: black;
+  color: rgb(215, 228, 240);
+  padding: 4em 0em;
+  text-align: center;
+  
+}
+.conteudo span {
+  color: #fca311;
+}
+
+.containerUm span {
+  color: #fca311;
+}
+
+.containerUm h3 {
+  padding-bottom: 3em;
+}
+
+.containerDois {
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  padding-bottom: 4em;
+}
+
+
+.containerDois img {
+  width: 250px;
+  height: 250px;
+}
+
+.containerDois span {
+  color: #fca311;
+}
+
+.descContDois {
+  padding: 3em 2em;
+}
+
+.descContDois p{
+    font-size: large;
+
+}
+
+.containerTres h3 {
+  color: red;
+  text-decoration: line-through;
+}
+
+.containerTres h1 {
+  color: rgb(14, 237, 14);
+}
+
+.containerTres button {
+  height: 50px;
+  margin-top: 1em;
+  padding: 0em 1em;
+  font-size: large;
+  background-color: #fca311;
+  border-radius: 40px;
+  cursor: pointer;
+  margin-bottom: 2em;
+}
+
+.containerTres button:hover {
+  background-color: rgb(14, 237, 14);
+}
+
+.containerQuatro {
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+
+.containerQuatro p{
+    width: min-content;
+    margin: 0 auto;
+  }
+
+
+.containerQuatro svg {
+  color: white;
+  padding: 0em 4em;
+  width: 50px;
+  height: 50px;
+}
