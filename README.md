@@ -1,6 +1,7 @@
 # Landing Page - Curso de Inglês
 
-Esse projeto tem como objetivo criar uma pagina de divulgação de um curso de inglê fictício.
+Esse projeto tem como objetivo criar uma pagina de divulgação de um curso de inglê fictício.                                           
+O site pode ser acessado nesse link = https://cursoinglesprofrui.netlify.app/
 
 ## Detalhes do projeto
 **Tecnologias e ferramentas**
