@@ -1,0 +1,42 @@
+.conteudo{
+    padding: 2em 4em;
+    font-family: "Secular One", serif ;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    height: 45em;
+}
+.conteudo h1{
+    padding-bottom: 1em;
+    
+}
+
+.conteudo h1 span{
+    color: #fca311;
+}
+
+.containerUm{
+    display: flex;
+}
+
+.conteudo h2{
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
+
+.caixa{
+    padding: 2em 2em;
+    text-align: center;
+    border: 8px solid white;
+    width: 18em;
+    margin-left: 1em;
+    
+}
+.caixa h3{
+    padding-bottom: 1em;
+    color: #fca311;
+}
+
+.caixa p{
+    text-align: left;
+}

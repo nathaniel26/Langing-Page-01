@@ -1,10 +1,15 @@
 .conteudo {
   font-family: "Secular One";
-  background-color: black;
+
+  background-image: url("C:\Users\Nathaniel\Desktop\Curso html-css-javascript-php\07 React\03 Projetos\02 - Landing Page 01 Curso Ingles\landing-page-01\src\IMGS\ingles.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
   color: rgb(215, 228, 240);
-  padding: 4em 0em;
+  padding: 2em 0em;
   text-align: center;
-  
+
 }
 .conteudo span {
   color: #fca311;
@@ -25,7 +30,6 @@
   padding-bottom: 4em;
 }
 
-
 .containerDois img {
   width: 250px;
   height: 250px;
@@ -39,9 +43,8 @@
   padding: 3em 2em;
 }
 
-.descContDois p{
-    font-size: large;
-
+.descContDois p {
+  font-size: large;
 }
 
 .containerTres h3 {
@@ -74,11 +77,10 @@
   text-align: center;
 }
 
-.containerQuatro p{
-    width: min-content;
-    margin: 0 auto;
-  }
-
+.containerQuatro p {
+  width: min-content;
+  margin: 0 auto;
+}
 
 .containerQuatro svg {
   color: white;

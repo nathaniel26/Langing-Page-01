@@ -1,0 +1,30 @@
+.conteudo{
+    padding: 4em 4em;
+    display: flex;
+    justify-content: center;
+    font-family: "Secular One", serif ;
+    background-color: rgb(215, 228, 240);
+}
+
+.conteudo img{
+    width: 300px;
+    height: 400px;
+    padding-left: 4em;
+}
+
+.containerUm {
+    margin-top: 2em;
+    
+}
+.containerUm p{
+    margin-top: 2em;
+    width: 500px;
+    
+}
+
+.containerUm p span{
+    font-weight: bold;
+    
+    
+}
+
