@@ -1,11 +1,9 @@
 .conteudo {
   font-family: "Secular One";
-
   background-image: url("C:\Users\Nathaniel\Desktop\Curso html-css-javascript-php\07 React\03 Projetos\02 - Landing Page 01 Curso Ingles\landing-page-01\src\IMGS\ingles.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-
   color: rgb(215, 228, 240);
   padding: 2em 0em;
   text-align: center;
@@ -65,6 +63,7 @@
   border-radius: 40px;
   cursor: pointer;
   margin-bottom: 2em;
+  font-family: "Secular One";
 }
 
 .containerTres button:hover {
@@ -87,4 +86,42 @@
   padding: 0em 4em;
   width: 50px;
   height: 50px;
+}
+
+@media screen and (max-width: 600px){
+  .containerUm{
+    text-align: left;
+    margin: 0 10%;
+  }
+
+  .containerDois{
+    display: block;
+    text-align: center;
+    padding-bottom: 0;
+  }
+
+  .descContDois p {
+    text-align: justify;
+    
+  }
+
+  .containerDois img {
+    width: 250px;
+    height: 250px;
+  }
+
+  .containerTres button {
+    font-size: medium;
+
+  }
+
+
+  .containerQuatro svg {
+    color: white;
+    padding: 0em 2em;
+    width: 30px;
+    height: 30px;
+  }
+
+
 }
