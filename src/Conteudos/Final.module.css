@@ -4,7 +4,7 @@
     background-color: black;
     text-align: center;
     color: aliceblue;
-    height: 45em;
+    height: 42em;
 }
 .conteudo h1{
     padding-bottom: 1em;
@@ -30,6 +30,7 @@
     border: 8px solid white;
     width: 18em;
     margin-left: 1em;
+    border-radius: 2em;
     
 }
 .caixa h3{
@@ -39,4 +40,8 @@
 
 .caixa p{
     text-align: left;
+}
+
+a:hover{
+    color: #fca311;
 }

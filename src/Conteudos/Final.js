@@ -1,5 +1,6 @@
 import styles from "../Conteudos/Final.module.css";
 
+
 function Final() {
   return (
     <div className={styles.conteudo}>
@@ -60,6 +61,8 @@ function Final() {
         Você terá acesso a um curso completo, 100% online e com aulas práticas
         em <br></br>vídeo com tudo que precisa para se tornar um fluente em inglês.
       </p>
+
+      
     </div>
   );
 }

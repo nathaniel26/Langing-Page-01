@@ -1,0 +1,11 @@
+.conteudo{
+    background-color: rgb(215, 228, 240);
+    width: 100%;
+    text-align: center;
+    border-top: 2px solid #fca311;
+    font-family: "Secular One", serif ;
+}
+
+.conteudo p{
+    padding: 1em;
+}
