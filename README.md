@@ -17,6 +17,8 @@ Esse projeto tem como objetivo criar uma pagina de divulgação de um curso de i
 
 <img src="https://i.postimg.cc/pV8zmVFg/2.png" title="ScreenShot 02" />
 
-<img src="https://i.postimg.cc/VvytKp3G/4.png" title="ScreenShot 04" />
+<img src="https://i.postimg.cc/mkQHJV4b/3.png" title="ScreenShot 03" />
 
-a
+<img src="https://i.postimg.cc/YS2nfngB/5.png" title="ScreenShot 04" />
+
+
